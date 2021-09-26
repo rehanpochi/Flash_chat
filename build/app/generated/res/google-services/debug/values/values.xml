@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">289999662868-l96ab7gt3e1uq6imt3kbvn8464b7bfo5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://rehan-flashchat.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">289999662868</string>
+    <string name="google_api_key" translatable="false">AIzaSyCJIATwdVp54DpFVNTWzLRvq9YqW7x4xeA</string>
+    <string name="google_app_id" translatable="false">1:289999662868:android:177e434897039583dcdc01</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJIATwdVp54DpFVNTWzLRvq9YqW7x4xeA</string>
+    <string name="google_storage_bucket" translatable="false">rehan-flashchat.appspot.com</string>
+    <string name="project_id" translatable="false">rehan-flashchat</string>
+</resources>

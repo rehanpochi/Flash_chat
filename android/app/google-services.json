@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289999662868",
+    "firebase_url": "https://rehan-flashchat.firebaseio.com",
+    "project_id": "rehan-flashchat",
+    "storage_bucket": "rehan-flashchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289999662868:android:177e434897039583dcdc01",
+        "android_client_info": {
+          "package_name": "com.rehan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289999662868-l96ab7gt3e1uq6imt3kbvn8464b7bfo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIATwdVp54DpFVNTWzLRvq9YqW7x4xeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289999662868-l96ab7gt3e1uq6imt3kbvn8464b7bfo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
